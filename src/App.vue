@@ -46,7 +46,7 @@ export default {
         {
           index: 2,
           name: '网易云音乐',
-          href: 'music.163.com',
+          href: 'https://music.163.com/#/user/home?id=1320983215',
           description: '网 抑 云 阴 乐（bushi）'
         }
       ],
